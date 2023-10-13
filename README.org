@@ -2,22 +2,15 @@
 - OpenBoard
 - Syncthing
 - Etar, ICSx5, DecSync CC
-- Orgzily
-- plees-tracker
-- Tutanota
-- ViMusic
-- Aves Libre
+- Orgzily, Tutanota
+- Plees Tracker
 - Olauncher
+- ViMusic
 
 * Aura Store
-- Bitwarden
-- Firefox
+- Google Maps, Google Translate
 - WhatsApp
-- Revolut
-- Google Maps
-- Google Translate
-- PosteID
-- ING Italia
-- Rempho Health
-- Lifetap
-- Beats
+- Bitwarden, Firefox
+- Revolut, ING Italia, PosteID
+- Rempho Health, Lifetap, Beats
+- Trainline, Easypark
