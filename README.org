@@ -2,10 +2,9 @@
 - OpenBoard
 - Syncthing
 - Etar, ICSx5, DecSync CC
-- Orgzily, Tutanota
-- Plees Tracker
-- Olauncher
-- ViMusic
+- Orgzily, MuPDF viewer
+- Olauncher, ViMusic
+- Tutanota
 
 * Aura Store
 - Google Maps, Google Translate
