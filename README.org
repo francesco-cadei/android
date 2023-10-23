@@ -4,10 +4,10 @@
 - Etar, ICSx5, DecSync CC
 - Orgzily, MuPDF viewer
 - Olauncher, ViMusic
-- Tutanota
+- Tutanota, gptAssist
 
 * Aura Store
-- Google Maps, Google Translate
+- Maps, Translate
 - WhatsApp
 - Bitwarden, Firefox
 - Revolut, ING Italia, PosteID
