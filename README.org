@@ -1,13 +1,13 @@
 * f-Droid
 - OpenBoard
 - Syncthing
-- Etar, ICSx5, DecSync CC
+- Etar, DecSync CC
 - Orgzily, MuPDF viewer
 - Olauncher, ViMusic
 - Tutanota, gptAssist
 
 * Aura Store
-- Maps, Translate
+- Maps
 - WhatsApp
 - Bitwarden, Firefox
 - Revolut, ING Italia, PosteID
