@@ -3,7 +3,7 @@
 - Syncthing
 - Etar, DecSync CC
 - Orgzily, MuPDF viewer
-- Olauncher, ViMusic
+- Olauncher, ViMusic, Record You
 - Tutanota, gptAssist
 
 * Aura Store
@@ -13,3 +13,4 @@
 - Revolut, ING Italia, PosteID
 - Rempho Health, Lifetap, Beats
 - Trainline, Easypark
+- Translate
