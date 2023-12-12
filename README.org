@@ -3,7 +3,8 @@
 - Syncthing
 - Etar, DecSync CC
 - Orgzily, MuPDF viewer
-- Olauncher, ViMusic, Record You
+- Vinyl, ViMusic
+- Olauncher, Record You
 - Tutanota, gptAssist
 
 * Aura Store
