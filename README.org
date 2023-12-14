@@ -12,6 +12,6 @@
 - WhatsApp
 - Bitwarden, Firefox
 - Revolut, ING Italia, PosteID
-- Rempho Health, Lifetap, Beats
+- Connect, Rempho Health, Beats
 - Trainline, Easypark
-- Translate
+- Translate, Lifetap
